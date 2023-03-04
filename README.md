@@ -1,3 +1,8 @@
-# Modify this portfolio
+# Portfolio Prep - Lab05
 
-Make it your own! 
+This is Kyle Freemantle's attempt to put together a personal portfolio based on an existing code base with 5 weeks exposure to JavaScript.
+
+#### Deployed Site
+
+https://kilofoxtrot.netlify.app/
+
